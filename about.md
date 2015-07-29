@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+一句话介绍永远都是—— 一枚标准女汉子！
 
-### More Information
+### 更多句介绍
 
-A place to include any other types of information that you'd like to include about yourself.
+＊ 阴谋家
+＊ 腹黑怪
+＋ 没钱——但是
+ － 很任性
+ － 买买买
 
-### Contact me
+### 介绍的不够
 
-[email@domain.com](mailto:email@domain.com)
+[我是微博](http://www.weibo.com/1663099390/profile?rightmod=1&wvr=6&mod=personinfo)
