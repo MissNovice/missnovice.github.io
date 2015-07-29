@@ -10,16 +10,16 @@ permalink: /about/
 
 ### 更多句介绍
 
-＊ 阴谋家
+* 阴谋家
 
-＊ 腹黑怪
+* 公主病
 
-＋ 没钱——但是
++ 没钱
 
- － 很任性
+ - 很任性
  
- － 买买买
+ - 买买买
 
-### 介绍的不够
+### 去搭讪
 
 [我是微博](http://www.weibo.com/1663099390/profile?rightmod=1&wvr=6&mod=personinfo)
